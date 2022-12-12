@@ -21,6 +21,7 @@ nav{
 }
 
 nav,
+h1,
 footer {
   font-family: 'JetBrains Mono', monospace;
 
@@ -51,10 +52,9 @@ main{
 }
 
 h1{
-  font-size: 36px;
+  font-size: 35px;
   line-height: 40px;
   margin: 50px 0;
-  font-family: 'JetBrains Mono', monospace;
   font-weight: bold;
 }
 
@@ -69,7 +69,7 @@ p{
 
 section{
   text-align: center;
-  margin: 0 0 60px 42px;
+  margin: 0 0 60px 0;
   align-items: center;
   
 }
@@ -96,8 +96,8 @@ footer a {
 
 #cadeado{
   position: fixed;
-  left: 25px;
-  bottom: 35px
+  left: 50px;
+  bottom: 10px
 }
 
 
